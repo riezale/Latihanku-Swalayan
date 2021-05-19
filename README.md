@@ -25,8 +25,8 @@
             Jika sudah mempunyai akun bisa langsung menggunakan pilihan login, jika belum harus mendaftarkan akun 
             terlebih dahulu dan langsung diarahkan ke login
         1.3 Forgot Password
-            Forgot Password/Lupa Password digunakan untuk mengganti password sebelumnya dengan mengisi username dan pin, 
-            jika username dan pin ditemukan maka bisa melakukan pergantian password
+            Forgot Password/Lupa Password digunakan untuk mengganti password sebelumnya dengan mengisi 
+            username dan pin, jika username dan pin ditemukan maka bisa melakukan pergantian password
         
 [4]Menu Program
 1. Tampilan User dapat mengakses Top-Up dan Menampilkan semua barang
