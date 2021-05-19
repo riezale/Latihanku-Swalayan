@@ -22,8 +22,8 @@
             1.1.3 Pin
                   Pin berisikan integer
         1.2 Login
-            Jika sudah mempunyai akun bisa langsung menggunakan pilihan login, jika belum harus mendaftarkan akun 
-            terlebih dahulu dan langsung diarahkan ke login
+            Jika sudah mempunyai akun bisa langsung menggunakan pilihan login, jika belum harus 
+            mendaftarkan akun terlebih dahulu dan langsung diarahkan ke login
         1.3 Forgot Password
             Forgot Password/Lupa Password digunakan untuk mengganti password sebelumnya dengan mengisi 
             username dan pin, jika username dan pin ditemukan maka bisa melakukan pergantian password
