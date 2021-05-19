@@ -59,3 +59,9 @@ Dilampirkan berupa file:
 [6]Fitur yang akan ditambahkan 
 1. Berbelanja
    
+[7]Referensi
+1. StackOverflow
+2. GeeksforGeeks
+3. Ritchie Ng
+4. Real Python
+5. Documentations
