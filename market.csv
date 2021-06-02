@@ -1,7 +1,7 @@
 NamaBarang,Harga,Jenis,Stock
-Lemon,4000,Buah,100
-Mangga,15000,Buah,100
-Jeruk,10000,Buah,100
+Lemon,4000,Buah,90
+Mangga,15000,Buah,70
+Jeruk,10000,Buah,20
 Sawi,3000,Sayur,100
 Tomat,3000,Buah,100
 Bawang Putih,4000,Sayur,100
@@ -15,11 +15,7 @@ Daging Ayam,15000,Lain,100
 Daging Sapi,35000,Lain,100
 Daging Kambing,25000,Lain,100
 Ceker Ayam,8000,Lain,100
-Manggis,14000,Buah,100
+Manggis,14000,Buah,20
 Mentega,4000,Lain,100
 Kedelai,8000,Buah,100
 Jeruk Sunkist,20000,Buah,100
-Lemon,15000,Sayur,100
-Mangga,10000,Sayur,100
-Test ,50000,Buah,100
-Test1,50000,Buah,100
