@@ -47,17 +47,33 @@
             Admin dapat menambahkan Barang baru ke dalam dataset/database
         2.2 Update Barang
             Admin dapat memperbaharui Nama Barang, Harga Barang, Jenis Barang, dan Stock Barang
+            
+        
+[5]Menu Belanja
+1. Tampilan User dapat mengakses Top-Up dan Menampilkan semua barang
+
+        5.1 Belanja 
+            User dapat membeli barang belanjaan dari dataset market.csv
+        5.2 Bayar Belanja
+            Apabila dirasa sudah puas belanja, user bisa langsung membayar belanjaan.
+            Keranjang belanja otomatis terhapus bila user sudah membayar belanja
+            
+            
 [5]Lampiran
 Dilampirkan berupa file:
 1. account.csv 
    Berfungsi untuk menampung semua akun yang dimasukkan ke dalam dataset/database
 2. market.csv
    Berfungsi untuk menampung semua barang
-3. Swalayan.ipynb
+3. bill.csv
+   Berfungsi untuk menampung pesanan barang belanjaan
+4. loginaccount.csv
+   Berfungsi untuk mengambil data akun yang sedang login  
+5. Swalayan.ipynb
    Program yang akan dijalankan
    
 [6]Fitur yang akan ditambahkan 
-1. Berbelanja
+~~1. Berbelanja
    
 [7]Referensi
 1. StackOverflow
@@ -65,3 +81,6 @@ Dilampirkan berupa file:
 3. Ritchie Ng
 4. Real Python
 5. Documentations
+
+Last Update :
+06/02/2021 6:06 PM
