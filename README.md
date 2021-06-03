@@ -73,6 +73,7 @@ Dilampirkan berupa file:
    Program yang akan dijalankan
    
 [6]Fitur yang akan ditambahkan 
+
 ~~1. Berbelanja~~
    
 [7]Referensi
